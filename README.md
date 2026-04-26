@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="CodevitsPlus.png" width="200" height="200" title="Hover text">
+  <img src="CodevitsPlus.png" width="300" height="300" title="Hover text">
 
 # PT Codevits Innovation Indonesia <br> by Bob's of International of Singapore 🚀
 ***"Innovating the Future, Empowering the Nation"***
@@ -37,11 +37,12 @@ Perjalanan kami dalam mentransformasi lanskap digital Indonesia dipandu oleh sep
 ***Di Codevits, kami percaya bahwa teknologi adalah bahasa masa depan. Dan kami di sini untuk memastikan Indonesia tidak hanya mengerti bahasa tersebut, tapi juga fasih memimpin percakapannya.***
 
 
-[![Founding](https://img.shields.io/badge/Research_Grant-BRIN_RI-blueviolet.svg)](https://brin.go.id)
 ## 🎖️ The Founding Journey
 Perjalanan kami dimulai dari visi sekelompok inovator dari **Universitas Respati Yogyakarta**. Codevits berhasil meraih pendanaan (founding) prestisius melalui seleksi nasional **Program Pembinaan Mahasiswa Wirausaha (P2MW)** di bawah naungan **Direktorat Belmawa, Kementerian Pendidikan Tinggi, Sains dan Teknologi Republik Indonesia**. 
 
 Kepercayaan terhadap inovasi kami semakin diperkuat dengan keberhasilan meraih dukungan pendanaan melalui **Program Riset Badan Riset dan Inovasi Nasional (BRIN)**. Sinergi antara dukungan pemerintah dan dedikasi riset ini menjadi batu loncatan utama bagi kami untuk melegalkan entitas perusahaan serta memperluas jangkauan inovasi dari skala nasional menuju panggung internasional.
+
+[![Founding](https://img.shields.io/badge/Research_Grant-BRIN_RI-blueviolet.svg)](https://brin.go.id)
 
 
 ## 👥 Board of Directors (C-Suite)
@@ -49,8 +50,8 @@ Struktur kepemimpinan kami terdiri dari para ahli yang menggabungkan kapabilitas
 
 | Position | Name | Responsibility |
 | :--- | :--- | :--- |
-| **Komisaris Utama** | **...** | Pengawasan Strategis & Tata Kelola Perusahaan |
-| **Chief Executive Officer (CEO)** | **Dimas Oktavian Prasetyo** | Direktur Utama atau Pemimpin Utama & Strategis Visi Perusahaan |
+| **President of the Board of Commissioners** | **...** | Pengawasan Strategis & Tata Kelola Perusahaan |
+| **Chief Executive Officer (CEO)** | **Dimas Oktavian Prasetyo** | Direktur Utama/Pemimpin Utama & Strategis Visi Perusahaan |
 | **Chief of Technology Officer (CTO)** | **...** | Direktur Riset, Teknologi, & Pengembangan Inovasi |
 | **Chief of Operations Officer (COO)** | **...** | Direktur Operasional, Kemitraan, & Kerjasama Strategis |
 | **Chief of Finance Officer (CFO)** | **...** | Direktur Keuangan & Manajemen Aset Perusahaan |
