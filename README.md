@@ -1,7 +1,7 @@
 <div align="center">
   <img src="CodevitsPlus.png" width="300" height="300" title="Hover text">
 
-# PT Codevits Innovation Indonesia <br> by Bob's of International of Singapore 🚀
+# PT Codevits Innovation Indonesia <br> by Bob's of International Group (BIG) of Singapore 🚀
 ***"Innovating the Future, Empowering the Nation"***
 
 [![Industry](https://img.shields.io/badge/Industry-Software_Development-blue.svg)](https://codevits.id)
@@ -52,10 +52,10 @@ Struktur kepemimpinan kami terdiri dari para ahli yang menggabungkan kapabilitas
 | :--- | :--- | :--- |
 | **President of the Board of Commissioners** | **...** | Pengawasan Strategis & Tata Kelola Perusahaan |
 | **Chief Executive Officer (CEO)** | **Dimas Oktavian Prasetyo** | Direktur Utama/Pemimpin Utama & Strategis Visi Perusahaan |
-| **Chief of Technology Officer (CTO)** | **...** | Direktur Riset, Teknologi, & Pengembangan Inovasi |
+| **Chief of Technology Officer (CTO)** | **Sohail Salehi** | Direktur Riset, Teknologi, & Pengembangan Inovasi |
 | **Chief of Operations Officer (COO)** | **...** | Direktur Operasional, Kemitraan, & Kerjasama Strategis |
 | **Chief of Finance Officer (CFO)** | **...** | Direktur Keuangan & Manajemen Aset Perusahaan |
-| **Chief Product & Marketing Officer	(CPMO)** | **...** | Pengembang Produk & Strategi Penetrasi Pasar |
+| **Chief Product & Marketing Officer	(CPMO)** | **Bayu Sekar Langit** | Pengembang Produk & Strategi Penetrasi Pasar |
 | **Chief Human Capital Officer	(CHCO)** | **...** |	Transformasi Budaya & Pengembangan Talenta Perusahaan |
 | **Chief Information Security Officer (CISO)** |	**...** | Penanggung Jawab Keamanan Data & Privasi Informasi |
 
