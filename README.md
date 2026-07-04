@@ -1,7 +1,7 @@
 <div align="center">
   <img src="CodevitsPlus.png" width="300" height="300" title="Hover text">
 
-# PT Codevits Innovation Indonesia <br> by Bob's of International Group (BIG) of Singapore 🚀
+# PT Codevits Innovation Indonesia ***powered by*** <br> The Bob's of International Group (BIG) of Singapore 🚀
 ***"Innovating the Future, Empowering the Nation"***
 
 [![Industry](https://img.shields.io/badge/Industry-Software_Development-blue.svg)](https://codevits.id)
