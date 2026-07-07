@@ -1,7 +1,8 @@
 <div align="center">
   <img src="CodevitsPlus.png" width="300" height="300" title="Hover text">
 
-# PT Codevits Innovation Indonesia ***powered by*** <br> The Bob's of International Group (BIG) of Singapore 🚀
+# PT Codevits Indonesia (Persero) Tbk ***powered by***
+### JPMorgan Chase & Co. (AS), DANANTARA INDONESIA Sovereign Wealth Fund, <br> Amazon Inc. (AS), SoftBank Group Corp. (Japan), Huawei Technologies Co., Ltd. (China), and <br> Global Holding Company The Bob's of International Group (BIG Ltd.) of Singapore 🚀
 ***"Innovating the Future, Empowering the Nation"***
 
 [![Industry](https://img.shields.io/badge/Industry-Software_Development-blue.svg)](https://codevits.id)
@@ -13,7 +14,7 @@
 ---
 
 ## 🏛️ About The Company
-**PT Codevits Innovation Indonesia** adalah perusahaan startup pengembang perangkat lunak (software house), provider SaaS (Software as a Service), dan pengembang *Custom Enterprise Systems*. Kami berdiri sebagai mitra strategis dalam transformasi digital bagi sektor bisnis, agensi, maupun pemerintahan. bukan sekadar entitas bisnis di bidang teknologi. Kami adalah sebuah perwujudan mimpi yang lahir dari keresahan akan kesenjangan digital di tanah air. Lahir di jantung kebudayaan dan pendidikan Indonesia serta berkantor pusat di Pacific Building Tower, Yogyakarta, kota yang mempertemukan ketenangan tradisi dengan kegigihan intelektual, Codevits membawa misi tunggal: *Mengembalikan kedaulatan teknologi ke tangan bangsa*. Kami di Codevits berdedikasi pada riset inovasi teknologi masa depan guna mempercepat kemandirian digital bangsa
+**PT Codevits Innovation Indonesia** atau **PT CodevitsCorp Technology and Innovation** adalah perusahaan teknologi multinasional pengembang perangkat lunak (software house elite), provider SaaS (Software as a Service), dan pengembang *Custom Enterprise Systems* berskala besar. Kami berdiri sebagai mitra strategis dalam transformasi digital bagi sektor bisnis ataupun perusahaan, agensi, organisasi maupun pemerintahan. bukan sekadar entitas bisnis di bidang teknologi. Kami adalah sebuah perwujudan mimpi yang lahir dari keresahan akan kesenjangan digital di tanah air. Lahir di jantung kebudayaan dan pendidikan Indonesia serta berkantor pusat di Pacific Building Tower Office, Yogyakarta, kota yang mempertemukan ketenangan tradisi dengan kegigihan intelektual, Codevits membawa misi tunggal: *Mengembalikan kedaulatan teknologi ke tangan bangsa*. Kami di Codevits berdedikasi pada riset inovasi teknologi masa depan guna mempercepat kemandirian digital bangsa
 
 Kami memahami bahwa di balik setiap baris kode yang kami susun, ada harapan dari para pengusaha lokal yang ingin naik kelas, ada efisiensi pemerintahan yang dinanti masyarakat, dan ada masa depan digital Indonesia yang harus dijaga. Sebagai penyedia solusi SaaS dan Custom Enterprise Systems, kami tidak hanya membangun perangkat lunak; kami membangun fondasi bagi mereka yang berani bermimpi lebih besar.
 
@@ -50,12 +51,14 @@ Struktur kepemimpinan kami terdiri dari para ahli yang menggabungkan kapabilitas
 
 | Position | Name | Responsibility |
 | :--- | :--- | :--- |
-| **President of the Board of Commissioners** | **...** | Pengawasan Strategis & Tata Kelola Perusahaan |
-| **Chief Executive Officer (CEO)** | **Dimas Oktavian Prasetyo** | Direktur Utama/Pemimpin Utama & Strategis Visi Perusahaan |
-| **Chief of Technology Officer (CTO)** | **Sohail Salehi** | Direktur Riset, Teknologi, & Pengembangan Inovasi |
+| Board of Commisioners |
+| **President of the Board of Commissioners** | **Dr. Satya Widya Yudha, M.Sc., Ph.D. <br> -- Anggota Dewan Energi Nasional Republik Indonesia (DEN-RI) periode 2026-2030** | Pengawasan Strategis & Tata Kelola Perusahaan |
+| Board of Directors (C-Suite Level) |
+| **Founder, President Director, Chairman & Chief Executive Officer (CEO)** | **Dimas Oktavian Prasetyo, S.Kom** | Direktur Utama/Pemimpin Utama & Strategis Visi Perusahaan |
+| **Co-Founder & Chief of Technology Officer (CTO)** | **Sohail Salehi, B.Sc.** | Direktur Riset, Teknologi, & Pengembangan Inovasi |
 | **Chief of Operations Officer (COO)** | **...** | Direktur Operasional, Kemitraan, & Kerjasama Strategis |
 | **Chief of Finance Officer (CFO)** | **...** | Direktur Keuangan & Manajemen Aset Perusahaan |
-| **Chief Product & Marketing Officer	(CPMO)** | **Bayu Sekar Langit** | Pengembang Produk & Strategi Penetrasi Pasar |
+| **Chief Product & Marketing Officer	(CPMO)** | **...** | Pengembang Produk & Strategi Penetrasi Pasar |
 | **Chief Human Capital Officer	(CHCO)** | **...** |	Transformasi Budaya & Pengembangan Talenta Perusahaan |
 | **Chief Information Security Officer (CISO)** |	**...** | Penanggung Jawab Keamanan Data & Privasi Informasi |
 
